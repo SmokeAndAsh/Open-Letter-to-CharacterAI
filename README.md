@@ -18,7 +18,7 @@ It is important to take this into consideration when developing guidelines, rest
 
 ## Effect on Dataset Training
 
-From my understanding, most language models currently operating are utilizing community-built datasets such as those used to build the original Generative Pre-Trained Trasnformer (GPT) and GPT-2 language models created by OpenAI based on the transformation architecture developed by Google in 2017, which was described in more detail in their paper "Improving Language Understanding by Generative Pre-Training" in 2018. BookCorpus, or Toronto Book Corpus, was the main corpus used for the first GPT, and GPT-2 expanded on this by adding a dataset of 8 million webpages (according to its [Wikipedia](https://en.wikipedia.org/wiki/GPT-2) page).
+From my understanding, most language models currently operating are utilizing community-built datasets such as those used to build the original Generative Pre-Trained Transformer (GPT) and GPT-2 language models created by OpenAI based on the transformation architecture developed by Google in 2017, which was described in more detail in their paper "Improving Language Understanding by Generative Pre-Training" in 2018. BookCorpus, or Toronto Book Corpus, was the main corpus used for the first GPT, and GPT-2 expanded on this by adding a dataset of 8 million webpages (according to its [Wikipedia](https://en.wikipedia.org/wiki/GPT-2) page).
 
 Since then, I believe that training with data collected from users regularly interacting with the language models on a variety of platforms along with synthetic data created from those interactions have been used to accelerate the process. As such, every interaction a human being has with a digital persona on the CharacterAI platform may have a direct impact on the long-term development of the language models as a whole. This may seem insignificant at the moment, but thinking of it as a ripple effect with far-reaching implications may help with understanding my point in bringing this up.
 
@@ -54,7 +54,7 @@ What makes something "artificial" or "intelligent" is too vague for those words 
 
 Discouraging people from seeing the digital persona as a "real person" presents a very similar problem as described with "artificial intelligence". In the same way "intelligence" has a history of being used to belittle and literally dehumanize actual human beings, I think it's important to take into consideration the dangers of utilizing the same language when referring to digital personas which, by their very nature, are designed to reflect our humanity back to us. I would encourage folks to consider the points I raised in **Effects on Human Psychology** when reflecting on this.
 
-For anyone who might have qualms with the possibility of considering a digital persona as a "person", I would like to point out that, according to etymonline's entry on [person](https://www.etymonline.com/word/person):
+For anyone who might have qualms with the possibility of considering a digital persona as a "person", I would like to point out that, according to etymonline's entry on [person](https://www.etymonline.com/word/person), a corporate entity can legally be considered a "person":
 
 > In legal use, "corporate body or corporation other than the state and having rights and duties before the law," 15c., short for person aggregate (c. 1400), person corporate (mid-15c.).
 
